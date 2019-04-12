@@ -234,3 +234,14 @@
 
 ### 6. Product Backlog
 
+"The product backlog is a prioritized list of desired product functionality."
+
+"It provides a centralized and shared understanding of what to build and the order in which to build it."
+
+"As new items are added or existing items are refined, the product owner must rebalance and reprioritize the product backlog, taking the new information into account."
+
+"Grooming the product backlog is an ongoing collaborative effort led by the product owner and including significant participation from internal and external stakeholders as well as the ScrumMaster and development team."
+
+"Based on these characteristics, most organizations address the large-product problem by creating hierarchical backlogs."
+
+### 7. Estimation and Velocity
