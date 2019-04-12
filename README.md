@@ -168,3 +168,29 @@
 
 ### 4. Sprints
 
+"They are timeboxed, have a short and consistent duration, have a goal that shouldn't be altered once started, and must reach the end state specified by the team's definition of done."
+
+"Timeboxing is a technique for limiting the amount of WIP (work in process).
+
+"Completing some work toward those features ensures that valuable, measurable progress is being made each sprint."
+
+"Timeboxing helps avoid unnecessary perfectionism."
+
+"The fact that the end of the sprint brings with it a hard deadline encourages team members to diligently apply themselves to complete the work on time."
+
+"Timeboxing improves predictability."
+
+"Scrum provides managers, stakeholders, product owners, and others with many more checkpoints than they would have with sequential projects."
+
+"The sprint goal is the foundation of a mutual commitment made by the team and the product owner."
+
+"The team commits to meeting the goal by the end of the sprint, and the product owner commits to not altering the goal during the sprint."
+
+"A change is any alteration in work or resources that has the potential to generate economically meaningful waste, harmfully disrupt the flow of work, or substantially increase the scope of work within a sprint."
+
+"Most of the time, a bare-minimum definition of done should yield a complete slice of product functionality, one that has been designed, built, integrated, tested, and documented and would deliver validated customer value."
+
+"Sprints provide the essential Scrum skeleton on which most other activities and artifacts can be placed."
+
+### 5. Requirements and User Stories
+
