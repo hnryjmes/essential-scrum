@@ -194,3 +194,43 @@
 
 ### 5. Requirements and User Stories
 
+"In Scrum, the details of a requirement are negotiated through conversations that happen continuously during development and are fleshed out just in time and just enough for the teams to start building functionality to support that requirement."
+
+"Initially the product backlog items are large (representing large swaths of business value), and there is very little detail associated with them."
+
+"Eventually a product backlog item is small and detailed enough to move into a spring, where it will be designed, built, and tested."
+
+"Requirements that we'll work on sooner will be smaller and more detailed than ones that we won't work on for some time."
+
+"One of the benefits of using user stories is that they shift some of the focus away from writing and onto conversations."
+
+"User stories are an excellent vehicle for carrying items of customer or user value through the Scrum value-creation flow."
+
+"However, if we have only one story size (the size that would comfortably fit within a short-duration sprint), it will be difficult to do higher-level planning and to reap the benefits of progressive refinement."
+
+"The largest would be stories that are a few to many months in size and might span an entire release or multiple releases."
+
+"Epics are helpful because they give a very big-picture, high-level overview of what is desired."
+
+"Tasks are the layer below stories, typically worked on by only one person, or perhaps a pair of people."
+
+"Tasks typically require hours to perform."
+
+"It is important to keep in mind that terms like epic, feature, story, and theme are just labels of convenience, and they are not universally shared."
+
+"How do we know if the stories that we have written are good stories?"
+
+"The INVEST criteria are Independent, Negotiable, Valuable, Estimatable, Small (sized appropriately), and Testable."
+
+"Stories need to be valuable to a customer, user, or both."
+
+"If a story isn't valuable to either, it doesn't belong in the product backlog."
+
+"The fundamental problem with technical stories is that the product owner might not perceive any value in them, making it difficult if not impossible to prioritize them against business-valuable stories."
+
+"Sometimes we need to create a product backlog item that focuses on knowledge acquisition."
+
+"One difference between traditional story-writing workshops and story mapping is that during the workshop we are primarily focused on generating stories and not so focused on prioritizing them (the vertical position of implementable stories within a story map)."
+
+### 6. Product Backlog
+
