@@ -58,3 +58,65 @@
 
 ### 2. Scrum Framework
 
+"The Scrum framework is based on a set of values, principles, and practices that provide the foundation to which your organization will add its unique implementation of relevant engineering practices and your specific approaches for realizing the Scrum practices."
+
+"To better grasp the framework concept, imagine that the Scrum framework is like the foundation and walls of a building."
+
+"You can't ignore or fundamentally change a value, principle, or practice without risking collapse."
+
+"What you can do, however, is customize the inside of the structure of Scrum, adding fixtures and features until you have a process that works for you."
+
+"Scrum is a refreshingly simple, people-centric framework based on the values of honesty, openness, courage, respect, focus, trust, empowerment, and collaboration."
+
+"Scrum development efforts consist of one or more Scrum teams, each made up of three Scrum roles: product owner, ScrumMaster, and the development team."
+
+"The product owner is responsible for what will be developed and in what order."
+
+"The ScrumMaster is responsible for guiding the team in creating and following its own process based on the broader Scrum framework."
+
+"The development team is responsible for determining how to deliver what the product owner has asked for."
+
+"The product owner has a vision of what he wants to create (the big cube)."
+
+"Because the cube can be large, through an activity called grooming it is broken down into a set of features that are collected into a prioritized list called the product backlog."
+
+"A sprint starts with sprint planning, encompasses the development work during the sprint (called sprint execution), and ends with the review and retrospective."
+
+"Using Scrum, we always do the most valuable work first."
+
+"The product owner collaborates with internal and external stakeholders to gather and define the product backlog items."
+
+"In Scrum, work is performed in iterations or cycles of up to a calendar month called sprints."
+
+"Sprints are timeboxed so they always have a fixed start and end date, and generally they should all be of the same duration."
+
+"During sprint planning, the product owner and development team agree on a sprint goal that defines what the upcoming sprint is supposed to achieve."
+
+"Using this goal, the development team reviews the product backlog and determines the high-priority items that the team can realistically accomplish in the upcoming sprint while working at a sustainable pace - a pace at which the development team can comfortably work for an extended period of time."
+
+"Each day of the sprint, ideally at the same time, the development team members hold a timeboxed (15 minutes or less) daily scrum."
+
+"This inspect-and-adapt activity is sometimes referred to as the daily stand-up because of the common practice of everyone standing up during the meeting to help promote brevity."
+
+"What did I accomplish since the last daily scrum?"
+
+"What do I plan to work on by the next daily scrum?"
+
+"What are the obstacles or impediments that are preventing me from making progress?"
+
+"The daily scrum is not a problem-solving activity."
+
+"Mainly, the daily scrum is an inspection, synchronization, and adaptive daily planning activity that helps a self-organizing team do its job better."
+
+"In Scrum, we refer to the sprint results as a potentially shippable product increment, meaning that whatever the Scrum team agreed to do is really done according to its agreed-upon definition of done."
+
+"Potentially shippable is better thought of as a state of confidence that what got built in the sprint is actually done, meaning that there isn't materially important undone work (such as important testing or integration and so on) that needs to be completed before we can ship the results from the sprint, if shipping is our business desire."
+
+"A successful review results in bidirectional information flow."
+
+"Whereas the sprint review is a time to inspect and adapt the product, the sprint retrospective is an opportunity to inspect and adapt the process."
+
+"After the sprint retrospective is completed, the whole cycle is repeated again - starting with the next sprint-planning session, held to determine the current highest-value set of work for the team to focus on."
+
+### 3. Agile Principles
+
