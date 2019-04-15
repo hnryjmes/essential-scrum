@@ -484,3 +484,17 @@
 
 ### 17. Envisioning (Product Planning)
 
+"Envisioning begins with an idea for a product that someone or some team has generated (a process often referred to as ideation)."
+
+"This idea is first passed through the organization's strategic filter to determine if it is consistent with the organization's strategic direction and therefore worthy of deeper investigation and investment."
+
+"The confidence threshold is the set of information that the decision makers need in order to have enough confidence to make a go/no-go funding decision for more detailed development."
+
+"Instead, we focus each release on a small set of minimum releasable features (MRFs) around which the stakeholder community shares a strong group consensus."
+
+"One way to promote quick movement is to provide an expected completion date to the envisioning team (one of the inputs to envisioning)."
+
+"Simply put, we responsibly and efficiently manage our resources to quickly and cheaply perform envisioning."
+
+### 18. Release Planning (Longer-Term Planning)
+
