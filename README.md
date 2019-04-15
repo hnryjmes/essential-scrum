@@ -450,3 +450,9 @@
 
 ### 14. Scrum Planning Principles
 
+"When developing using Scrum, we don't believe we can get it right up front, so we don't try to produce all of the planning artifacts up front."
+
+"Just like John the skier, we need to be prepared to pivot quickly when we learn that our current plan is no longer valid."
+
+### 15. Multilevel Planning
+
