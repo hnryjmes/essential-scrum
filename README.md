@@ -404,3 +404,23 @@
 
 ### 11. Development Team
 
+"Testing should be fully interwoven into the work that takes place during every sprint."
+
+"Whenever you can, you should create cross-functional teams."
+
+"Self-organization is a bottom-up, emergent property of the system – there is no external dominating force applying traditional top-down, command-and-control management."
+
+"Teams composed solely of people with the same skills (traditional silo teams) can at most do part of the job."
+
+"Handoffs represent an excellent opportunity for miscommunication and costly mistakes."
+
+"Flexible development teams are composed of members with T-shaped skills."
+
+"Managers should focus on forming teams that have the best set of T-shaped skills that are possible with available personnel."
+
+"High-bandwidth communications increase both the frequency and quality of information sharing."
+
+"The currency of agile is the team."
+
+### 12. Scrum Team Structures
+
