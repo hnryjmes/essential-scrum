@@ -436,3 +436,17 @@
 
 ### 13. Managers
 
+"In this chapter I discuss the responsibilities of functional-area managers (also called resource managers), such as development managers, QA managers, and art directors, within a Scrum organization."
+
+"Managers need to foster an environment where people are constantly learning and adding to their skill sets."
+
+"On the surface there are some similarities between a ScrumMaster and a project manager – for example, both do impediment removal."
+
+"However, being a servant leader significantly differentiates this role from a more command-and-control-focused project manager."
+
+"Rather, the project manager is the person who is concerned with making sure that dependencies across the various areas are understood and communicated in a way so that the teams can most effectively coordinate their work with the other teams."
+
+## 3. Planning
+
+### 14. Scrum Planning Principles
+
