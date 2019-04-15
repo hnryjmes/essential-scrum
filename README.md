@@ -424,3 +424,15 @@
 
 ### 12. Scrum Team Structures
 
+"A feature team is a cross-functional and cross-component team that can pull end-customer features from the product backlog and complete them."
+
+"A component team, on the other hand, focuses on the development of a component or subsystem that can be used to create only part of an end-customer feature."
+
+"Scrum favors feature teams."
+
+"A common approach to coordinating work among multiple teams is the scrum of scrums or SoS."
+
+"A release train is an approach to aligning the vision, planning, and interdependencies of many teams by providing cross-team synchronization based on a common cadence."
+
+### 13. Managers
+
