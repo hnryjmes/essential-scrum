@@ -394,3 +394,13 @@
 
 ### 10. ScrumMaster
 
+"The ScrumMaster acts as a coach to both the development team and the product owner."
+
+"A ScrumMaster also provides process leadership, helping the Scrum team and the rest of the organization develop their own high performance, organization-specific Scrum approach."
+
+"People who are in a technical leadership position are there for a reason – they are technically very good at what they do."
+
+"Any time technical leaders are doing ScrumMaster work, they are necessarily providing less technical leadership."
+
+### 11. Development Team
+
