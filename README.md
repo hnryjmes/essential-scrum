@@ -366,3 +366,31 @@
 
 ### 9. Product Owner
 
+"The product owner is the empowered central point of product leadership."
+
+"On one hand, the product owner must understand the needs and priorities of the organizational stakeholders, the customers, and the users well enough to act as their voice."
+
+"On the other hand, the product owner must communicate to the development team what to build and the order in which to build it."
+
+"In these respects the product owner is part business analyst and part tester."
+
+"The product owner is responsible for ensuring that good economic decisions are continuously being made at the release, sprint, and product backlog levels."
+
+"In addition to release-level economics, the product owner also manages sprint-level economics, ensuring that a good return on investment (ROI) is delivered from each sprint."
+
+"The product owner is responsible for defining the acceptance criteria for each product backlog item."
+
+"The product owner is the single voice of the entire stakeholder community, internal and external."
+
+"Internal stakeholders can include business systems owners, executive management, program management, marketing, and sales."
+
+"External stakeholders can include customers, users, partners, regulatory bodies, and others."
+
+"The product owner is a visionary who can synthesize a product vision and lead the team to achieve that vision."
+
+"On a commercial development effort – for example, a company building a product for sale to external customers – the product owner should be an organization employee who acts as the voice of the actual customers."
+
+"On an outsourced development effort – for example, company A contracting with company B to build a solution – a representative from company A should be the product owner."
+
+### 10. ScrumMaster
+
