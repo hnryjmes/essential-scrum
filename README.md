@@ -498,3 +498,15 @@
 
 ### 18. Release Planning (Longer-Term Planning)
 
+"Whether the organization intends to deploy every sprint, every few sprints, or continuously, most organizations find some amount of longer-term, higher-level planning to be useful."
+
+"In Scrum, the product owner is ultimately responsible for defining the MRFs."
+
+"My point is that if we think incrementally and aggressively target the true minimum releasable features, we can usually turn a fixed-scope release into a set of smaller fixed-date releases."
+
+"When the set of minimum releasable features becomes small, another constraint (like time) typically becomes the dominant constraint."
+
+## 4. Sprinting
+
+### 19. Sprint Planning
+
