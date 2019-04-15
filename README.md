@@ -456,3 +456,15 @@
 
 ### 15. Multilevel Planning
 
+"Formally Scrum defines only sprint planning and daily planning (via the daily scrum)."
+
+"Portfolio planning (or portfolio management) is an activity for determining which products to work onm, in what order, and for how long."
+
+"The goals of product-level planning (which I also refer to as envisioning) are to capture the essence of a potential product and to create a rough plan for the creation of that product."
+
+"Once a product vision and high-level product backlog have been established, it is helpful to build a product roadmap (sometimes referred to as a release roadmap)."
+
+"The most detailed level of planning occurs during the team's daily scrum meeting."
+
+### 16. Portfolio Planning
+
