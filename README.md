@@ -468,3 +468,19 @@
 
 ### 16. Portfolio Planning
 
+"As long as we have products to develop or maintain, we have a portfolio to manage."
+
+"In some organizations the stakeholders collectively form an approval committee, governance board, or some equivalent entity that oversees the portfolio-planning process."
+
+"Frequently the input of senior architects or technical leads is needed to ensure that important technical constraints are factored into portfolio-planning decisions."
+
+"For a specific product, lifecycle profits are the total profit potential for the product over its lifetime."
+
+"When all products have the same cost of delay, the preferred scheduling strategy is to do the shortest job first."
+
+"In practice we want a steady stream of products moving into the portfolio backlog balanced against a steady stream of products being pulled from the portfolio backlog."
+
+"Marginal economics is a powerful tool for doing the right thing and for exposing foolish and wasteful behavior."
+
+### 17. Envisioning (Product Planning)
+
