@@ -245,3 +245,58 @@
 "Based on these characteristics, most organizations address the large-product problem by creating hierarchical backlogs."
 
 ### 7. Estimation and Velocity
+
+"To answer these questions using Scrum, we need to estimate the size of what we are building and measure the velocity or rate at which we can get work done."
+
+"One we know the approximate size of the release, we turn our attention to the team's velocity, how much work the team typically gets done each sprint."
+
+"The sum of the sizes of all the completed product backlog items in a sprint is the team's velocity for that sprint."
+
+"Although the portfolio backlog is not formally a part of Scrum, many organizations maintain one that contains a prioritized list of all of the products (or projects) that need to be built."
+
+"Once a product or project is approved and we start adding more detail to its product backlog items, however, we need to estimate differently."
+
+"When PBIs have risen in priority and been groomed to include more detail, most teams prefer to put numeric size estimates on them, using ether story points or ideal days."
+
+"Tasks are sized in ideal hours (also referred to as effort-hours, man-hours, or person-hours)."
+
+"In Scrum, we follow a simple rule: The people who will do the work collectively provide the estimates."
+
+"Estimates are not commitments, and it is important that we do not treat them as such."
+
+"If I then tell them their bonuses will be based on the estimate being correct, everyone, including me, will give a much larger estimate than the one we originally thought was correct."
+
+"We don't want them artificially inflated due to external influences."
+
+"When all is said and done, we have no real understanding of the numbers because they have been manipulated so many times by different people."
+
+"Although there is no standard unit for PBI size estimates, by far the two most common units are story points and ideal days."
+
+"Story points combine factors like complexity and physical size into one relative size measure."
+
+"If there is a low risk of misinterpretation in your organization, ideal time will likely work just fine."
+
+"If you believe people will misinterpret ideal time, you're better off using story points."
+
+"Planning Poker is a consensus-based technique for estimating effort."
+
+"The most frequently used scale is the one proposed by Mike Cohn, based in part on a modified Fibonacci sequence: 1, 2, 3, 5, 8, 13, 20, 40, and 100."
+
+"In Planning Poker we don't take averages or use any number not on the scale/cards."
+
+"Usually this consensus can be achieved within two or three rounds of voting, during which the team members' focused discussion helps obtain a shared understanding of the story."
+
+"The majority of the value associated with Planning Poker is the discussion and better understanding that team members will share about the PBIs."
+
+"Velocity is the amount of work completed each sprint."
+
+"It is measured by adding the sizes of the PBIs that are completed by the end of the sprint."
+
+"For planning purposed, velocity is most useful when expressed as a range, such as “The team is typically able to complete between 25 and 30 points each sprint.”"
+
+"Velocity is used as a planning tool and as a team diagnostic metric."
+
+"It should not be used as a performance metric in an attempt to judge team productivity."
+
+### 8. Technical Debt
+
