@@ -300,3 +300,69 @@
 
 ### 8. Technical Debt
 
+"Cunningham used the technical debt metaphor to explain to his business team why creating software fast to get feedback was a good thing."
+
+"The team and organization need to be vigilant about repayment of the debt as their understanding of the business domain improves, and the design and implementation of the system need to evolve to better embrace that understanding."
+
+"Cunningham didn't intend for technical debt to refer to team member or business immaturity or process deficiencies that lead to sloppy design, poor engineering practices, and a lack of testing."
+
+"In addition, there is unavoidable technical debt, which is usually unpredictable and unpreventable."
+
+"The final type of technical debt is strategic technical debt."
+
+"For example, an organization might deliberately make a strategic decision to take shortcuts during product development to achieve an important short-term goal, such as getting a time-sensitive product into the marketplace."
+
+"We can choose to continue paying the interest (by working around the problems), or we can pay down the debt principal (for example, by refactoring the code to make it cleaner and easier to modify)."
+
+"The reality is that reducing testing will both increase debt and cause us to go slower, because problems will go undetected until later when it is much more time-consuming to fix them."
+
+"Future technical debt builds quickly on top of existing technical debt."
+
+"The result is the kind of product in which we are terrified to make any changes, because a small change in one area could cause 18 other things to break in what appear to be totally unrelated areas of the product."
+
+"Technical debt management requires a balanced technical and business discussion that must involve technical and business people."
+
+"Although Scrum does not formally define technical practices, every successful Scrum team that I have seen employs practices such as simple design, test-driven development, continuous integration, automated testing, refactoring, and so on."
+
+"The more technically encompassing we make our definition-of-done checklist, the less likely we are to accrue technical debt."
+
+"In my experience, most organizations substantially underestimate the true cost of assuming technical debt and aren't nearly as diligent as they think they will be at repaying it."
+
+"The problem in many organizations is that whereas the development team has at least some reasonable visibility into the product's technical debt position, the business people typically do not."
+
+"A way that some organizations do make visible the business consequences of technical debt is by tracking velocity over time."
+
+"Another approach to making technical debt visible is to create product backlog items that represent technical debt."
+
+"A third approach to making technical debt visible is to create a special technical debt backlog that makes individual technical debt items visible."
+
+"There are a number of scenarios under which technical debt should not be repaid."
+
+"If a product has accrued significant technical debt and it is approaching end of life, investing in any substantial technical debt repayment would be fiscally irresponsible."
+
+"A common example would be the development of a throwaway prototype that is created for knowledge-acquisition purposes."
+
+"If we build a product for a very short production life, the economics might dictate that technical debt should not be repaid."
+
+"There is a Boy Scout rule: “Always leave the campground cleaner than you found it.”"
+
+"Following this rule, we try to always make our product design and implementation a little better, not a little worse, every time we touch it."
+
+"In some products the accrued technical debt level might be quite high."
+
+"Teams working on such products frequently end up making large balloon payments as a means of servicing their debt load."
+
+"They would be far better off if they made many, timely, incremental payments against known technical debt instead of large late payments."
+
+"Although it is convenient to lump all types of shortcuts or deficiencies under one label of technical debt, it is important to realize that not all types of technical debt are of equal importance."
+
+"When servicing technical debt, therefore, we should target and service the high-interest technical debt first."
+
+"An excellent way to repay known technical debt incrementally, while focusing on high-interest technical debt and aligning technical debt servicing with the Scrum value-centric approach, is to make debt payments while performing customer-valuable work."
+
+"Instead, we should service known technical debt coincident with the development of customer-valuable features in the product backlog."
+
+## 2. Roles
+
+### 9. Product Owner
+
