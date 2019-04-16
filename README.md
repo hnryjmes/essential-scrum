@@ -534,3 +534,19 @@
 
 ### 21. Sprint Review
 
+"During sprint review we inspect (and adapt) the result of the work (the potentially shippable product increment)."
+
+"Because it helps ensure that the organization is creating a successful product, the sprint review is one of the most important learning loops in the Scrum framework."
+
+"It's a good idea to at least periodically include external stakeholders, such as actual customers or users of what the team is building."
+
+"The sprint review is supposed to be an informal meeting with low ceremony and high value."
+
+"Although a demonstration is quite helpful in the sprint review, the demo is not the aim of the sprint review."
+
+"The most important aspect of the sprint review is in-depth conversation and collaboration among the participants to enable productive adaptations to surface and be exploited."
+
+"Observation, comments, and reasonable discussion regarding the product and direction are strongly encouraged among the participants."
+
+### 22. Sprint Retrospective
+
