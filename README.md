@@ -198,7 +198,7 @@
 
 "Initially the product backlog items are large (representing large swaths of business value), and there is very little detail associated with them."
 
-"Eventually a product backlog item is small and detailed enough to move into a spring, where it will be designed, built, and tested."
+"Eventually a product backlog item is small and detailed enough to move into a sprint, where it will be designed, built, and tested."
 
 "Requirements that we'll work on sooner will be smaller and more detailed than ones that we won't work on for some time."
 
@@ -509,4 +509,20 @@
 ## 4. Sprinting
 
 ### 19. Sprint Planning
+
+"To determine the most important subset of product backlog items to build in the next sprint, the Scrum team performs sprint planning."
+
+"The product owner shares the initial sprint goal, presents the prioritized product backlog, and answers any questions the team might have regarding the product backlog items."
+
+"The development team works diligently to determine what it can deliver and then makes a realistic commitment at the end of sprint planning."
+
+"The ScrumMaster, acting as the Scrum team coach, observes the planning activity, asks probing questions, and facilitates to help ensure a successful result."
+
+"The first and most crucial input to sprint planning is a product backlog that has been groomed prior to sprint planning so that the topmost items have well-defined acceptance criteria and are appropriately sized, estimated, and prioritized."
+
+"The team must also determine how much time it should reserve for work outside the sprint, things like supporting the current product, maintaining another product, or other work unrelated to the current sprint."
+
+"If the team's predicted velocity is 25 points, a commitment of 21 points seems reasonable."
+
+### 20. Sprint Execution
 
