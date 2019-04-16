@@ -550,3 +550,23 @@
 
 ### 22. Sprint Retrospective
 
+"Sprint retrospectives give the whole Scrum team an opportunity to stop bumping along for a moment and think."
+
+"Inside the timebox of the retrospective, teams are free to examine what's happening, analyze the way they work, identify ways to improve, and make plans to implement these improvements."
+
+"It is important because it gives teams the chance to customize Scrum to their unique circumstances."
+
+"To establish a shared context the participants must align their diverse individual perspectives into a shared team perspective."
+
+"Creating an event timeline is a simple yet powerful way to generate a shared artifact that visually represents the flow of events during a sprint."
+
+"Many teams create an emotions seismograph as a complement to their event timeline."
+
+"Another source for insights might be the team's insight backlog, a prioritized list of previously generated insights that have not yet been acted upon."
+
+"It is important to realize that retrospectives frequently identify many more improvement insights than the Scrum team and organization can digest and act on in a short period of time."
+
+"Once the retrospective prework is completed, the basic flow of the retrospective is to set the atmosphere to have a successful retrospective, get everyone on the same page by creating a shared context grounded in data, identify improvement insights, determine improvement actions, and then close the retrospective."
+
+### 23. The Path Forward
+
