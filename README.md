@@ -526,3 +526,11 @@
 
 ### 20. Sprint Execution
 
+"Sprint execution accounts for the majority of time during a sprint."
+
+"An important part of managing flow is determining how many product backlog items the team should work on in parallel to maximize the value delivered by the end of the sprint."
+
+"A term frequently used to describe this approach is swarming, where team members with available capacity gather to work on an item to finish what has already been started before moving ahead to start work on new items."
+
+### 21. Sprint Review
+
