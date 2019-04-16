@@ -570,3 +570,7 @@
 
 ### 23. The Path Forward
 
+"Trying to define “done” for your Scrum implementation presumes that when you achieve that state, you can't get any better."
+
+"It is frequently easier for people to ignore Scrum or change Scrum than it is to change long-held organizational processes, rules, or behaviors."
+
